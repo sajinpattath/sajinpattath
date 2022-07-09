@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sajinpattath
-- 👀 I’m and enthusiastic learner and interested in cloud technologies, cloud native application development and mainframe to cloud modernizaation.
-- 🌱 I have completed Post Graduate Certificate in Cloud Computing from IIIT Bangalore and looking forward to get more certifications in AWS, AZURE, GCP.
+- 👀 A cloud technology enthusiast interested in cloud native application development and mainframe to cloud modernizaation.
+- 🌱 I have completed Post Graduate Certificate in Cloud Computing from IIIT Bangalore.
 - 💞️ I’m looking to collaborate on any new learnings in cloud technologies.
 - 📫 you can reach me by email on sajinpattath@gmail.com
 
